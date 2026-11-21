@@ -1,0 +1,5 @@
+{
+  "allowed_hosts": [
+    "http://YOUR_56_CHARACTER_HOSTNAME.onion"
+  ]
+}

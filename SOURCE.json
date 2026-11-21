@@ -1,0 +1,29 @@
+{
+  "article": "https://monero.love/guides/basicswap-whonix-tails/",
+  "recorded_at_utc": "2026-11-21T18:16:04.578385+00:00",
+  "source_kind": "live published HTML",
+  "article_html_sha256": "862b70cdc413950b3b5a5eeeb5071a4d07cc0c7b400966ca4a3656af23508681",
+  "files": {
+    ".gitignore": {
+      "sha256": "58c2ae86583b93c1ae764f01f77a50f0e76673b84c8fe387c7c70c8061056e7e"
+    },
+    "ARTICLE-EXAMPLES.md": {
+      "sha256": "05693a9edb829d5627eb998c8fc7e0e62c980c59d9a9d523b8dc788ca1005162"
+    },
+    "README.md": {
+      "sha256": "9842bd4c8532d7cd79a989a40e66bda10e473cebe3d4abfa770eeed38119a46c"
+    },
+    "VALIDATION.md": {
+      "sha256": "5f46db4d4b318d435ad278a4f32a3a977e558554c7fc4f945e4ca7a439a165ff"
+    },
+    "debian-host/allowed-hosts.fragment.json": {
+      "sha256": "82617c4d793b5560427fe3472da92a7479233c73c7cbb51f5e6a0e77926df559"
+    },
+    "debian-host/prepare-client-auth.bash": {
+      "sha256": "08d8da4c0d70e4e6cd1fe84c3369590390178a797ee979deaaeb5eb6959ddd4c"
+    },
+    "debian-host/torrc-onion.fragment.conf": {
+      "sha256": "e4dbf42e1430360663b3e4287e708a07247a6f1f850aa56983aeb103c22f1a9e"
+    }
+  }
+}
